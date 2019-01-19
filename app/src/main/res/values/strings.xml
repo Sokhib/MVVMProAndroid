@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMProAndroid</string>
+    <string name="has_issues">HAS ISSUES</string>
+    <string name="refresh">Refresh</string>
+</resources>
